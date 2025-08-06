@@ -1,0 +1,19 @@
+{
+  "name": "burn-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.4",
+    "chalk": "^5.5.0",
+    "dotenv": "^17.2.1",
+    "inquirer": "^12.9.0"
+  }
+}
